@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\result\betweenness_centrality_Art.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\result\degree_centrality_Art.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
